@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Política de Privacidade YourBooks
 
-You can use the [editor on GitHub](https://github.com/ichin23/yourBooks/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Por favor, leia o documento para saber onde e como ficam seus apps
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Onde estão hospedados
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ichin23/yourBooks/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Todos os dados estão salvos em um servidor seguro do Google. Firebase, um dos serviços de computação mais usados no mundo
 
-### Support or Contact
+### Quais dados e como usamos
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Pedimos apenas um email e senha para que possamos gerenciar os livros de cada usuário
